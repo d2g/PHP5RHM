@@ -1,0 +1,75 @@
+[[Image:MetalTypeZoomIn.JPG|thumb|300px|right|The phrase shown in metal moveable type, used in printing presses. (Image is mirrored for readability.)]]
+"'''''The quick brown fox jumps over the lazy dog'''''" is an [[English language|English-language]] [[pangram]], that is, a [[phrase]] that contains all of the letters of the [[alphabet]]. It has been used to test [[typewriter]]s and [[computer keyboard]]s, and in other applications involving all of the letters in the English alphabet. Owing to its shortness and coherence, it has become widely known.
+
+==History==
+The earliest known appearance of the phrase is from ''The Michigan School Moderator'', a journal that provided teachers with education-related news and suggestions for lessons.<ref>{{cite web|title=Growing Up in Michigan, 1880-1895: One-Room School Lessons - Lesson Plan|work=Teachers' Stuff from the Michigan Historical Museum|publisher=State of Michigan|url=http://www.michigan.gov/dnr/0,1607,7-153-54463_18670_18793-96515--,00.html|accessdate=December 12, 2009}}</ref> In an article titled "Interesting Notes" in the March 14, 1885 issue, the phrase is given as a suggestion for writing practice: "The following sentence makes a good copy for practice, as it contains every letter of the alphabet: '<!--Don't change this-->A<!--Don't change this--> quick brown fox jumps over the lazy dog.'"<ref>{{cite journal|title=Interesting Notes|journal=The Michigan School Moderator|volume=5|issue=26|location=Grand Rapids, Michigan|date=March 14, 1885|page=514}}</ref> Note that the phrase in this case begins with the word "A" rather than "The". Several other early sources also use this variation.
+
+As the use of typewriters grew in the late 19th century, the phrase began appearing in typing and stenography lesson books as a practice [[sentence (linguistics)|sentence]]. Early examples of publications which utilized the phrase include ''Illustrative Shorthand'' by Linda Bronson (1888),<ref>{{cite book|title=Illustrative Shorthand|first=Linda Pennington|last=Bronson|year=1888|location=San Francisco|url=http://www.archive.org/details/illustrativeshor00salmrich}}</ref> ''How to Become Expert in Typewriting: A Complete Instructor Designed Especially for the Remington Typewriter'' (1890),<ref>{{cite book|title=How to Become Expert in Typewriting|first=Lovisa Ellen|last=Barnes|year=1890|url=http://www.archive.org/details/howtobecomeexpe00barngoog}}</ref> and ''Typewriting Instructor and Stenographer's Hand-book'' (1892). By the turn of the 20th century, the phrase had become widely known. In the January 10, 1903, issue of ''Pitman's Phonetic Journal'', it is referred to as "the well known memorized typing line embracing all the letters of the alphabet".<ref>{{cite journal|title=The Fox Typewriter|journal=Pitman's Phonetic Journal|date=January 10, 1903}}</ref> [[Robert Baden-Powell, 1st Baron Baden-Powell|Robert Baden-Powell]]'s book ''[[Scouting for Boys]]'' (1908) uses the phrase as a practice sentence for signalling.<ref name="sfb">{{cite book | first = Robert | last = Baden-Powell | authorlink = Robert Baden-Powell, 1st Baron Baden-Powell  | title = Scouting for Boys | location = London | publisher = Pearson | year = 1908 | isbn = 0665987943}}</ref>
+
+During the 20th century, technicians tested typewriters and [[teleprinter]]s with repeated lines of "THE QUICK BROWN FOX..." sentence.<ref>[http://wvegter.hivemind.net/abacus/CyberHeroes/Baudot.htm Foxing (second paragraph from the end)]</ref>
+bla bla bla
+
+==Usage in typography==
+This pangram is commonly used to display [[Sample font displays in other languages|font samples]] and for testing [[computer keyboard]]s.
+{{multiple image | align = center
+| header = Examples of how the phrase is used in font display
+| image1 = Kfontview.png
+| image2 = Comparison of Fonts.png
+| caption1 = The phrase used to display fonts in Kfontview
+| caption2 = The phrase used to compare common word-processor typefaces in [[OpenOffice.org]]
+| width1 = 295
+| width2 = 500
+}}
+
+==Usage in computing==
+Quick Brown Fox was the name of a vendor and word processing software package that ran on the [[Commodore VIC-20]] and [[Commodore 64]].
+
+Older versions of [[Microsoft Word]] feature the text if you type in   =rand()   and then hit the enter button. In Microsoft Word 2007 and 2010 this message has been replaced with straightforward instructions. However, you can use =rand.old() to see the original sentence appear.<ref>[http://support.microsoft.com/kb/212251 kb212251 Microsoft support]</ref>
+On Microsoft Word for Mac 2011, you can simply use =rand() and hit enter
+
+==Usage in popular culture==
+Owing to the widespread knowledge of the phrase and its comical nature, many works of art have been developed that pictorially depict the action of a fox jumping over a dog or a related variation of it.  [[Dan Santat]], creator of Disney Channel's ''[[The Replacements (TV series)|The Replacements]]'' and children’s book author, has created a cartoon of the pangram on his blog in which he mistakenly replaced "jumps" with "jumped", thereby removing the letter "s" from his phrase.<ref>[http://doodlevision.blogspot.com/2007/08/illustration-friday-alphabet.html Illustration Friday - Alphabet], Doodlevision, [[Blogspot]]</ref>
+Other instances of phrase-related artworks include a typography workshop flyer,<ref>[http://www.ad-cw.com/2007/09/quick-brown-fox-jumps-over-lazy-dog.html Quick brown fox jumps over the lazy dog], The Art Direction and Copywriting Blog, Blogspot</ref> a widespread clipart image,<ref>[http://www.westbroek.com/pix/logged/05/log015.jpg Image], Westbroek.com</ref> and a music CD cover<ref>[http://www.blackberry-music.net/gfx/cover_quickbrownfox.jpg Cover], Blackberry-music.net</ref>. A video of a fox actually jumping over a dog can be found online.<ref>[http://www.liveleak.com/view?i=c43_1263177517 Liveleak.com]</ref> The May 9, 2008, issue of John Allen's web-based comic ''Nest Heads'' features a child saying the phrase to a sleeping dog, in attempts to arouse him to play.<ref>[http://www.gocomics.com/feature_items/explore?page=1&tag=6867&tag_name=the+quick+brown+fox+jumped+over+the+lazy+dog Nest Heads], John Allen, Go Comics</ref> In the Disney movie ''[[The Fox and the Hound (film)|The Fox and the Hound]]'', there is a scene near the end where the fox is running fast and jumps over the lying-down hound, creating an in-context, non-contrived instance of the phrase. The phrase plays a key role in the plot of the 2001 [[Mark Dunn]] novel ''[[Ella Minnow Pea]]'', which is set in a fictitious island nation supposed to be the home of the phrase's originator.
+
+Close variations are often created when the phrase is used in the arts. In the card game ''[[Magic: The Gathering]]'', a "joke card" from the [[Unhinged (Magic: The Gathering)|Unhinged]] series was created with a game-related variation of the phrase, "The quick onyx goblin jumps over the lazy dwarf."<ref>[http://ww2.wizards.com/gatherer/CardDetails.aspx?name=Now+I+Know+My+ABC's Now I Know My ABC's], Gatherer</ref> In the Peanuts comic strip for May 27, 1974, Snoopy, having been entrusted by Lucy to ghostwrite her a biography of [[Ludwig van Beethoven]], only writes on his typewriter “The quick brown fox jumps over the unfortunate dog”<ref>[http://groups.google.com/group/alt.comics.peanuts/browse_frm/thread/e70a999c59637625/cd8fceafe0f77dbf?lnk=st Alt.comics.peanuts], [[Google Groups]]</ref>  because that phrase was all he ever learned to type.
+
+The paleontologist [[Stephen Jay Gould]] used it as the final line in his essay "The Panda's Thumb of Technology."<ref>Gould, Stephen Jay (1987). [http://books.google.com/books?id=pzj90slTTEIC&pg=PA59 "The Panda's Thumb of Technology."] ''[[Natural History (magazine)|Natural History]]'' 96 (1): 14-23; Reprinted in ''[[Bully for Brontosaurus]]''. New York: W.W. Norton. 1992, pp. 59-75.</ref>
+
+''[[The Electric Company]]'' used the phrase in a cartoon in which it appears in typewritten font and is read by a female voice. A small brown fox jumps over a sleeping dog repeatedly until the dog starts becoming annoyed and stops him, then laughs heartily as the fox walks away.
+
+In the 1981 movie ''[[Stripes (film)|Stripes]]'' starring Bill Murray, Harold Ramis, and John Candy, the misfit platoon on the verge of being forced to repeat basic training wows the General at their graduation ceremony with an impromptu "drill". One of the phrases they use during the drill routine is "The quick brown fox jumps over the lazy dog...sir!"
+
+The phrase was used erroneously, with the word "jumped" instead of "jumps", and hence missing the letter ''s'', in a commercial for [[ESPN]]'s ''[[SportsCenter]]'' in 2009.  [[Jay Harris (sportscaster)|Jay Harris]] types the phrase while using batting weights to aid him to type the phrase faster.
+
+==Other Uses==
+*The [[HTC Corporation]] uses the phrase on its cell phones during the start-up tutorial to let the user test every letter on the touch keyboard.
+
+*The French version is: « Portez ce vieux whisky au juge blond qui fume » ("Take this old whiskey to the blond judge who smokes")
+
+==See also==
+* [[ETAOIN SHRDLU]]
+* [[Filler text]]
+* [[Lorem ipsum]]
+* [[Pangram]]
+* [[Ella Minnow Pea]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://www.cl.cam.ac.uk/~mgk25/ucs/examples/quickbrown.txt Sentences that contain all letters commonly used in a language]
+* [http://www.artlebedev.ru/kovodstvo/33/ Pangrams in Russian, English and some other languages]
+* [http://www.thatvideosite.com/video/the_quick_brown_fox_jumps_over_the_lazy_dog_literally The quick brown fox jumps over the lazy dog (literally)]
+
+{{DEFAULTSORT:Quick Brown Fox Jumps Over The Lazy Dog}}
+[[Category:Typography]]
+[[Category:English phrases]]
+{{Standard test item}}
+[[de:The quick brown fox jumps over the lazy dog]]
+[[fr:The quick brown fox jumps over the lazy dog]]
+[[ko:The quick brown fox jumps over the lazy dog]]
+[[ja:The quick brown fox jumps over the lazy dog]]
+[[fi:The quick brown fox jumps over the lazy dog]]
+[[pt:The quick brown fox jumps over the lazy dog]]
+[[wuu:The quick brown fox jumps over the lazy dog]]
+[[zh:The quick brown fox jumps over the lazy dog]]
